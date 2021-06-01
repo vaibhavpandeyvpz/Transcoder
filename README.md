@@ -18,6 +18,6 @@ Then include below dependency in your module's `build.gradle` as follows:
 ```groovy
 dependencies {
   // ... other dependencies ...
-  implementation 'com.github.vaibhavpandeyvpz:android-transcoder:0.9.1-android11'
+  implementation 'com.github.vaibhavpandeyvpz:android-transcoder:0.9.1-android11-SNAPSHOT'
 }
 ```
